@@ -56,6 +56,8 @@ label{
   background-color: darkolivegreen;
   border:2px solid rgb(209, 204, 204);
   border-radius: 2svw;
+  font-size: 7svh;
+  align-items: center;
 }
 
 .checkB{
